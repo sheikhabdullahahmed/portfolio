@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Navbar() {
   return (
@@ -8,11 +9,9 @@ function Navbar() {
             Sheikh 
         </div>
         <div className='space-x-6'>
-            <a href="#home" className='hover:text-gray-400'>Home</a>
-            <a href="#about" className='hover:text-gray-400'>About</a>
-            <a href="contact" className='hover:text-gray-400'>Contact</a>
-            <a href="service" className='hover:text-gray-400'>Service</a>
-            <a href="#projects" className='hover:text-gray-400'>Projects</a>
+          <Link to="/"> Home</Link>
+          <Link to="/about">Home</Link>
+
         </div>
         <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connects Me</button>
     </div>

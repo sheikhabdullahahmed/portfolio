@@ -45,7 +45,7 @@ function Contactus() {
                         <label htmlFor="Email" className="block mb-2">Meassge</label>
                         <textarea type="text" className="w-full p-2 rounded bg-gray-800 border-gray-500 focus:outline-none focus:border-green-400 " placeholder="Enter Your Meassge" rows={5} />
                     </div>
-                    <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Send</button>
+                    <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-8 py-2 rounded-full'>Send</button>
                 </form>
 
              </div>
