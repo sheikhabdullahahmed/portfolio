@@ -10,7 +10,8 @@ function Navbar() {
         </div>
         <div className='space-x-6'>
           <Link to="/"> Home</Link>
-          <Link to="/about">Home</Link>
+          <Link to="/about">Abouttt</Link>
+          <Link to="/contact">Contact</Link>
 
         </div>
         <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connects Me</button>
