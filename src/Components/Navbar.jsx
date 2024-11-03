@@ -10,7 +10,7 @@ function Navbar() {
         </div>
         <div className='space-x-6'>
           <Link to="/"> Home</Link>
-          <Link to="/about">Aboutt</Link>
+          <Link to="/about">About</Link>
           <Link to="/contact">Contact</Link>
 
         </div>
