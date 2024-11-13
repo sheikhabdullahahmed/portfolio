@@ -23,7 +23,7 @@ function About() {
             <div className="space-y-4">
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12 ">
-                  HTML, CSS
+                  HTML, CSS, JS
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 w-10/12 text-white  transform transition-transform duration-300 hover:scale-105 rounded-full"></div>
@@ -52,13 +52,13 @@ function About() {
             <div className="mt-12 flex justify-between text-center  ">
               <div>
                 <h3 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500  mb-12">
-                  3+
+                  2+
                 </h3>
                 <p> Years Experience </p>
               </div>
               <div>
                 <h3 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500  mb-12">
-                  50+
+                  15+
                 </h3>
                 <p> Project Completed </p>
               </div>

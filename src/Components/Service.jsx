@@ -4,19 +4,26 @@ import React from 'react'
 const service = [
     {
         id: 1,
-        title: "Web Design",
-        description: "Creating visullay appeailng and user-friendly web-design "
+        title: "React Js",
+        description: "Building responsive and interactive user interface "
     },
     {
         id: 2,
-        title: "React Js ",
-        description: "Building responsive and interactive user interface."
-    },
-    {
-        id: 3,
         title: "Next Js ",
         description: "Next.js is a powerful React framework that enables server-side rendering"
     },
+    {
+        id: 3,
+        title: "Mern Stack ",
+        description: "The MERN stack  used for building full-stack JavaScript applications."
+
+
+
+
+
+
+
+    }
 ]
 
 
