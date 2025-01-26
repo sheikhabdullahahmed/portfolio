@@ -1,6 +1,6 @@
 import React from 'react'
-import Eat from '../../assets/eat.jpg'
-import Picture1 from '../../assets/picture 1.jpg'
+import Eat from '../../dist/assets/eat.jpg'
+import Picture1 from '../../dist/assets/pic1.jpg'
 
 const Projects = [
     {
