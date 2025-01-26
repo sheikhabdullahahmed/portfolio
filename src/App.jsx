@@ -5,7 +5,7 @@ import About from './Components/About'
 import Service from './Components/Service'
 import Projects from './Components/projects'
 import Contactus from './Components/Contactus'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 
