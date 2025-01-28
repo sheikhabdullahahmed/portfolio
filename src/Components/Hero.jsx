@@ -4,7 +4,7 @@ import React from 'react'
 export default function Hero() {
   return (
     <div className='bg-black text-white text-center py-16 '>
-        <img className='mx-auto mb-8 w-48  rounded-full object-cover transfrom  transition-transform duration-300  hover:scale-105' src={heropng} alt="" />
+        <img className='mx-auto mb-8 w-48  rounded-full object-cover transfrom  transition-transform duration-300  hover:scale-105' src="" alt="" />
         <h1 className='text-4xl font-bold  '>
             I,m {""}
 

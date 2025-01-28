@@ -1,5 +1,5 @@
-import React from "react";g
-import Picture1 from '../../dist/assets/pic2.jpg'
+import React from "react";
+import Picture1 from '../../dist/assets/pic1.jpg'
 
 
 function About() {
